@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+F:\Workspace\Core Java Collection Level3\ShopingCart\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2715294278.index
+681607069.index
+4245041530.index
+860734321.index
+3858490779.index
+461816889.index
